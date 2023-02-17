@@ -4,4 +4,3 @@
 
 "dramsim3" folder goes in gem5/ext
 
-username:root
