@@ -1,0 +1,1 @@
+sudo ./build/X86/gem5.opt --debug-flags DRAMsim3 configs/example/se.py --mem-type DRAMsim3 --cmd=../coremark/coremark.exe -o=" 0 0 0x66 100" --cpu-type=O3CPU --caches #--l1d_size=128B --l1i_size=64B --l2_size=4kB --l3_size=32kB
